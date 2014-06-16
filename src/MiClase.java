@@ -1,3 +1,6 @@
+// Este trabajo se realizo en grupo con Maynor Morales, Adalid Solis, Kevin Lanza Y Yo Junior Zelaya
+
+
 
 public class MiClase
 {
